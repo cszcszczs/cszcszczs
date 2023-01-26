@@ -1,5 +1,12 @@
-### Hi there 👋
+<div align="center">
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
+
+  <h2>Hi there, I'm Alejandro Acosta M 👋</h2>
+  
+  #### You can find me on:
+[Linkedin](https://www.linkedin.com/in/alejandro-acosta-mu%C3%B1oz-177141221) - [Gmail](mailto:alejoacostamz@gmail.com)
+<br>
 <!--
 **cszcszczs/cszcszczs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
