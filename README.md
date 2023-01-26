@@ -1,11 +1,17 @@
 <div align="center">
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
+</div>
 
-  ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm [Alejandro Acosta M](https://github.com/cszcszczs) 👨‍💻
+  ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,  I'm [Alejandro Acosta M](https://github.com/cszcszczs)
+  <hr>
+  <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I'm a frontend / JavaScript developer. I am passionate about technologies and open source
 
+- 🤔 &nbsp; Exploring new technologies and developing web proyects.
+- Open for project collaboration and internship opportunities. 
   
-  ### 🛠️ Languages and Tools:
+ ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -42,4 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
