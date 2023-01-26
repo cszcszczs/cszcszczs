@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <!--
 **cszcszczs/cszcszczs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
