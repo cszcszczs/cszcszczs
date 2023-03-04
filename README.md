@@ -28,6 +28,8 @@ Frontend / JavaScript developer. I am passionate about technologies and software
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
   
   #### You can find me on:
   
