@@ -6,7 +6,7 @@
   ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,  I'm [Alejandro Acosta M](https://github.com/cszcszczs)
   <hr>
   <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-JavaScript developer. I am passionate about technologies and software development and all i can learn and discover in this industry. I really like to collaboration on projects and take the challengesto solve a problem that helps a cause and allows me to increase my skills. 
+I am passionate about technologies and software development and all i can learn and discover in this industry. I really like to collaboration on projects and take the challengesto solve a problem that helps a cause and allows me to increase my skills. 
 
 - 🤔 &nbsp; Exploring new technologies and developing web proyects.
 - Open for project collaboration and internship opportunities. 
