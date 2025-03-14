@@ -6,28 +6,19 @@
 ### I'm [Alejandro Acosta M](https://github.com/cszcszczs)
   <hr>
   <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-I am passionate about technologies and software development and all i can learn and discover in this industry. I really like to collaboration on projects and take the challengesto solve a problem that helps a cause and allows me to increase my skills. 
-
-- 🤔 &nbsp; Exploring new technologies and developing proyects.
-- Open for project collaboration and internship opportunities. 
+🚀 Passionate technologist and software developer with an insatiable curiosity for learning and discovering the endless possibilities in the tech industry.
+  I thrive on collaborating with others to tackle challenges, solve meaningful problems, and contribute to impactful causes—all while leveling up my skills.
   
  ### 🛠️ Languages and Tools:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Java](https://img.shields.io/badge/-springboot-black?style=flat-square&logo=springboot)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
   
-  ### 👣 Learning:
-  ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-
   
   #### You can find me on:
   
