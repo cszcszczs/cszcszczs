@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/8MupZHY.gif" width="400px" alt="Header GIF" />
   <br>
   <h1>Hi there! I'm Alejandro Acosta M. 👋</h1>
-  <p>Software Engineering Student | Go & Backend Architect | AI Agent Systems Explorer</p>
+  <p>Software Engineering Student | Backend Architect | AI Agent Systems Explorer</p>
 </div>
 
 ---
