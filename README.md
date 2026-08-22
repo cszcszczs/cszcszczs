@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" alt="Header GIF" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODc0MDk5MzAsIm5iZiI6MTc4NzQwOTYzMCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODIyVDE0NDAzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1NjFkZGI1NDA1NzRmOTk4ZjliNTBjZTAzMjI4MGZkMTNlZjU0OWNhMGNiNDRiMDE4OWFiYTliMDU3Y2U1MmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.9naNu54TCrZW8tcRYDYzYCJ6W6tlHee21s0NPCKHL5Q" width="400px" alt="Header GIF" />
   <br>
-  <h1>Hi there! I'm Alejandro Acosta M. 👋</h1>
+  <h1>Hi there! I'm Alejandro Acosta M.</h1> 
   <p>Software Engineering Student | Backend Architect | AI Agent Systems Explorer</p>
 </div>
 
